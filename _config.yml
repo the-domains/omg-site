@@ -2,6 +2,7 @@ name: omg site
 favicon: null
 layout_spectrum: 0.98247
 typography_spectrum: 0.3567428537644446
+title: omg site
 cta:
   domain: null
   bucket: null
